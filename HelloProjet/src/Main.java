@@ -4,6 +4,11 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
+
         System.out.println("HelloWorld!321");
+
+        System.out.println("HelloWorld!123");
+		
+
     }
 }
